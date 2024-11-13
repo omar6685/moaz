@@ -1,0 +1,53 @@
+.hi{
+    color: blue;
+    background: #000;
+}
+.asd{
+
+    font-size: 70px;
+    color: rgb(32, 70, 152);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-shadow: #fff 0px 0px 20px;
+}
+
+
+
+.vu {
+    color: sienna;
+}
+
+.black {
+   text-align: center;
+    color: #fff;
+}
+
+.zxd{
+    background: #967b03;
+    
+}
+.bmw{
+    background: #ffffff; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    box-shadow: #fff 0px 0px 10px;
+}
+.video{
+
+
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.nhg{
+    font-size: 20px;
+    margin-top: 0px;
+    
+}
+.szx{
+    width: 50%;
+    border-radius: 10px;
+}
